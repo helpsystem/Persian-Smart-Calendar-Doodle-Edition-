@@ -1,0 +1,7 @@
+{
+  "name": "Persian Smart Calendar (Doodle Edition)",
+  "description": "A high-performance Persian (Jalali) calendar with dynamic seasonal effects, historical events, and Gemini-powered daily insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
